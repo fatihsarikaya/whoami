@@ -2,7 +2,7 @@
 I want to specialize in the field of engineering by taking part in organizations where I can put the educational support I have received into practice.
 
 ## Social Links
-[Aviyel](https://aviyel.com/@fatihsarikaya)  •  [github](https://github.com/fatihsarikaya)
+[Aviyel](https://aviyel.com/@fatihsarikaya)  •  [stackoverflow](https://stackoverflow.com/users/13659588/fatih-sarikaya)
 
 [linkedin](https://www.linkedin.com/in/fatihsarikaya4)   •  [hackerrank](https://www.hackerrank.com/fatihsarikaya)
 

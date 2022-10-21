@@ -1,4 +1,7 @@
 # Hi 👋, I'm Fatih SARIKAYA
+👀 I’m interested in Python.
+🌱 I’m currently learning Advanced Level PHP
+
 I want to specialize in the field of engineering by taking part in organizations where I can put the educational support I have received into practice.
 
 ## Social Links
